@@ -1,0 +1,1 @@
+wsl -e bash -c "sudo mount -t drvfs G: /mnt/g && cd /mnt/g && bash curl.sh"
